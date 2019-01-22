@@ -3,19 +3,19 @@
     "producer_public_key": "EOS8jdVGxpfdHpY94FZZbcn3pbTZ45DkD7CLkQFxi8kpuRiF1YDdu",
     "org": {
         "candidate_name": "BlockEden",
-        "website": "https://bos.blockeden.com",
+        "website": "http://bos.blockeden.com",
         "code_of_conduct": "",
         "email": "",
         "branding": {
-            "logo_256": "",
+            "logo_256": "http://bos.blockeden.com/logo.png",
             "logo_1024": "",
             "logo_svg": ""
         },
         "location": {
-            "name": "Shanghai",
-            "country": "China",
-            "latitude": 31.22,
-            "longitude": 121.48
+            "name": "Singapore",
+            "country": "SG",
+            "latitude": 1.332531,
+            "longitude": 103.714462
         },
         "social": {
             "steemit": "",
