@@ -1,21 +1,19 @@
 {
     "producer_account_name": "blockedencom",
-    "producer_public_key": "",
+    "producer_public_key": "EOS5oqV5FRigHyXXTuJksn4aaBPkQzgSydcDEoStccpNJe1A4b62S",
     "org": {
         "candidate_name": "BlockEden",
         "website": "https://blockeden.com",
         "code_of_conduct": "",
         "email": "",
         "branding": {
-            "logo_256": "",
+            "logo_256": "http://blockeden.com/logo.png",
             "logo_1024": "",
             "logo_svg": ""
         },
         "location": {
-            "name": "Shanghai",
-            "country": "China",
-            "latitude": 31.22,
-            "longitude": 121.48
+            "name": "singapore",
+            "country": "singapore"
         },
         "social": {
             "steemit": "",
@@ -32,15 +30,13 @@
     "nodes": [
         {
             "location": {
-                "name": "Tokyo",
-                "country": "Japan",
-                "latitude": 34.8,
-                "longitude": 138.4
+                "name": "singapore",
+                "country": "singapore"
             },
             "is_producer": true,
-            "p2p_endpoint": "",
-            "api_endpoint": "",
-            "ssl_endpoint": ""
+            "p2p_endpoint": "p2p.bos.blockeden.com:10777",
+            "api_endpoint": "http://api.bos.blockeden.com",
+            "ssl_endpoint": "https://api.bos.blockeden.com"
         }
     ]
 }
